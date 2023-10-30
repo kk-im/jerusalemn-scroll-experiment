@@ -2,8 +2,8 @@
 
 import { useEffect } from "react";
 import Intro from "@/components/Intro/Intro";
-import Description from "@/components/Description";
-import Projects from "@/components/Projects";
+import Description from "@/components/Description/Description";
+import Projects from "@/components/Projects/Projects";
 
 export default function Home() {
   useEffect(() => {

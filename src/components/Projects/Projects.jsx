@@ -19,7 +19,7 @@ const projects = [
   },
 ];
 
-export default function Index() {
+export default function Projects() {
   const [selectedProject, setSelectedProject] = useState(0);
   const container = useRef(null);
   const imageContainer = useRef(null);

@@ -11,7 +11,7 @@ const phrases = [
   "where people pray",
 ];
 
-export default function Index() {
+export default function Description() {
   return (
     <div className={styles.description}>
       {phrases.map((phrase, index) => {
