@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
-import Intro from "@/components/Intro";
+import Intro from "@/components/Intro/Intro";
 import Description from "@/components/Description";
 import Projects from "@/components/Projects";
 
